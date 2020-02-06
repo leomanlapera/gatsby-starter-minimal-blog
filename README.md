@@ -1,8 +1,6 @@
-# Gatsby Starter Portfolio: Gatsby Theme Minimal Blog
+# Gatsby Starter Minimal Blog
 
-Minimalistic Blog Theme site base on Gatsby Blog Theme Core using [theme-ui](https://github.com/system-ui/theme-ui)
-
-[**Demo Website**](https://emilia.lekoarts.de)
+[**Demo Website**](https://jnlmn-dev-minimal-blog.netlify.com/)
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://github.com/leomanlapera/jnlmn.dev)
 
@@ -11,7 +9,6 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://github
 - MDX
 - Fully customizable through the usage of Gatsby Themes (and Theme UI)
 - Light Mode / Dark Mode
-- SEO
 
 ## 🚀 Getting Started
 
