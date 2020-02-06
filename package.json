@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-starter-minimal-blog",
+  "author": "June Leoman Lapera @leomanlapera",
+  "description": "A Gatsby starter for Minimal Blog Theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "@leomanlapera/gatsby-theme-minimal-blog": "1.0.0",
+    "gatsby": "^2.19.12",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
